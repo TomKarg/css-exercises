@@ -1,0 +1,14 @@
+.blwh-btn,
+.yellow-btn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blwh-btn {
+    background-color: black;
+    color: white;
+}
+
+.yellow-btn {
+    background-color: yellow;
+}
