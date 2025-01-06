@@ -1,0 +1,19 @@
+.odd_paragraph {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(219, 140, 140);
+}
+
+.spec_font_size {
+    font-size: 24px;
+}
+
+#sec_element {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    /* font-size: 24px; */
+    font-weight: bold;
+}
